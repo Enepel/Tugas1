@@ -1,0 +1,10 @@
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorConsoleApp1\bin\Debug\CalculatorConsoleApp1.exe.config
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorConsoleApp1\bin\Debug\CalculatorConsoleApp1.exe
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorConsoleApp1\bin\Debug\CalculatorConsoleApp1.pdb
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorConsoleApp1\bin\Debug\CalculatorMachine.dll
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorConsoleApp1\bin\Debug\CalculatorMachine.pdb
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorConsoleApp1\obj\Debug\CalculatorConsoleApp1.csprojAssemblyReference.cache
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorConsoleApp1\obj\Debug\CalculatorConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorConsoleApp1\obj\Debug\CalculatorConsoleApp1.csproj.CopyComplete
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorConsoleApp1\obj\Debug\CalculatorConsoleApp1.exe
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorConsoleApp1\obj\Debug\CalculatorConsoleApp1.pdb

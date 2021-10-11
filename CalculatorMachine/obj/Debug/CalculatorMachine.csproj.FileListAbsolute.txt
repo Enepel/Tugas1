@@ -1,0 +1,5 @@
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorMachine\bin\Debug\CalculatorMachine.dll
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorMachine\bin\Debug\CalculatorMachine.pdb
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorMachine\obj\Debug\CalculatorMachine.dll
+D:\Coba Coding\C#\Pemrograman Lanjut\CalculatorMachine\obj\Debug\CalculatorMachine.pdb
